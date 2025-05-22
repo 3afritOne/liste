@@ -64,7 +64,7 @@ Donc dans l’état, je trouve la **liste cohérente**.
 ---
 
 ## → **Liste concaténée (sans doublons)** : `145 pseudos uniques` (noyau dur)
-| # | Nom d'utilisateur | Date d'inscription |
+| # | Nom d'utilisateur | Date de follow |
 |---|-------------------|---------------------|
 | 1 | metroidzeta | 2022-01-28 11:03:30 |
 | 2 | doliprane1500mg | 2022-03-14 15:18:17 |
